@@ -1,7 +1,0 @@
-torch
-torchvision
-fastai
-gradio
-pillow
-matplotlib
-numpy
